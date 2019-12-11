@@ -20,10 +20,8 @@
 
 title: The Sales Operations Awesomeness Blog
 email: bshiver@redhat.com
-description: This blog is intended to surface interesting, unboring articles
-derrived from the sales operations profession.  Tales of problem solving, economic
-analysis, optimizing competitive strategies, and enabling commerce are commonplace
-in this archive.
+description: 'This blog is intended to surface interesting tales of problem solving,
+economic analysis, optimizing competitive strategies, and enabling commerce'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: blakeshiver
